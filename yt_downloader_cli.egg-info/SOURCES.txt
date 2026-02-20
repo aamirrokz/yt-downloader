@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+yt_downloader/__init__.py
+yt_downloader/cli.py
+yt_downloader_cli.egg-info/PKG-INFO
+yt_downloader_cli.egg-info/SOURCES.txt
+yt_downloader_cli.egg-info/dependency_links.txt
+yt_downloader_cli.egg-info/entry_points.txt
+yt_downloader_cli.egg-info/requires.txt
+yt_downloader_cli.egg-info/top_level.txt
