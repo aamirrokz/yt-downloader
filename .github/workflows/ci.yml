@@ -26,7 +26,7 @@ jobs:
 
     - name: Lint Python (basic check)
       run: |
-        python -m py_compile yt_tool.py
+        python -m py_compile yt_playlist.py
 
     - name: Build Docker image
       run: |
