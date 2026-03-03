@@ -1,0 +1,65 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.dist-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+.env.*
+.python-version
+
+# ==========================
+# Media files (downloads)
+# ==========================
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.avi
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+
+# Playlist folders created by tool
+Single_Video/
+*/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Docker
+# ==========================
+.dockerignore
+
+# ==========================
+# macOS
+# ==========================
+.DS_Store
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Test / temp files
+# ==========================
+*.tmp
+*.bak
+*.swp
