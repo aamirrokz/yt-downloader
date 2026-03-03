@@ -1,10 +1,11 @@
 Metadata-Version: 2.4
 Name: yt-downloader-cli
-Version: 1.0.1
+Version: 1.1.6
 Summary: YouTube video and playlist downloader CLI tool
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: yt-dlp
+Requires-Dist: tqdm
 
 # 🎬 YT Downloader CLI
 
@@ -19,6 +20,11 @@ A Dockerized YouTube video and playlist downloader built with yt-dlp.
 
 ## Run Locally
 python yt_tool.py
+
+## Install via pip
+pip install yt-downloader-cli
+
+yt-downloader
 
 ## Run With Docker
 docker build -t yt-downloader .
