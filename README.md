@@ -21,6 +21,13 @@ A professional, interactive YouTube video and playlist downloader built with **y
 * 📦 Published to PyPI with semantic versioning
 
 ---
+## 🎥 Demo
+
+<p align="center">
+  <img src="assets/demo.gif" width="800">
+</p>
+
+---
 
 # 📦 Installation
 
